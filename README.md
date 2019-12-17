@@ -2,7 +2,7 @@
  Repository for academic and personal software & hardware projects. Will add to the repository as I have completed and finalized more projects. 
  
  Kamino Game : 
- The Graph object is made up of vertices connected by edges. The Graph object serves as the basis for the Kamino Game. In the game, the spaceship starts from Earth (a vertex) and tries to find its way to the planet Kamino (a vertex) by travelling across paths (weighted edges) in the Universe (a graph). The spaceship must find its way to Kamino based on the signal strength from Kamino. After that the spaceships must find its way back to Earth from Kamino using the limited fuel remaining. On the return trip, the spaceship must maximize the amount of spices it collects from the planets it visits (each planet has n amount of spice on it). Note the code that I contributed is in the spaceship and the graph folders. Other folders were provided by the instructor. 
+ The Graph object is made up of vertices connected by edges. The Graph object serves as the basis for the Kamino Game. In the game, the spaceship starts from Earth (a vertex) and tries to find its way to the planet Kamino (a vertex) by travelling across paths (weighted edges) in the Universe (a graph). The spaceship must find its way to Kamino based on the signal strength from Kamino. In the next stage, the spaceships must find its way back to Earth from Kamino using the limited fuel remaining. On the return trip, the spaceship must maximize the amount of spices it collects from the planets it visits (each planet has n amount of spice on it). Note the code that I contributed is in the spaceship and the graph folders. Other folders were provided by the instructor. 
   
  
  Simple RISC machine : 
